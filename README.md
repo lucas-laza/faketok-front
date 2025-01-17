@@ -18,19 +18,17 @@ Cette application est conçue pour fonctionner avec l'API Faketok : [Faketok API
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/faketok.git
+   git clone https://github.com/lucas-laza/faketok-front.git
    ```
 
 2. Accédez au répertoire du projet :
    ```bash
-   cd faketok
+   cd faketok-front
    ```
 
 3. Installez les dépendances :
    ```bash
    npm install
-   # ou avec yarn
-   yarn install
    ```
 
 ## Démarrage de l'application
@@ -40,13 +38,11 @@ Cette application est conçue pour fonctionner avec l'API Faketok : [Faketok API
 2. Lancez le serveur de développement :
    ```bash
    npm run dev
-   # ou avec yarn
-   yarn dev
    ```
 
 3. Ouvrez votre navigateur et accédez à l'URL suivante :
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 
